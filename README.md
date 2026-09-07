@@ -14,7 +14,7 @@ In microgravity environments, continuously monitoring astronauts and their inter
 * Difficulty in identifying and tracking human activities.
 * Limited computational resources and communication bandwidth.
 * Need for real-time monitoring with minimal latency.
-* Safety risks associated with incorrect instrument handling or abnormal activities.
+* Safety risks associated with incorrect instrument handling or abnormal activities..
 
 ## 💡 Proposed Solution
 
